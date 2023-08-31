@@ -2,7 +2,7 @@
 
 ##output window sample case 1:
 
- |   |   |     
+  |   |   |     
   |   |   |     
   |   |   |   
   
